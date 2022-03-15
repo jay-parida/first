@@ -1,0 +1,19 @@
+#id1{
+    height: 400px;
+    width: 300px;
+    background-color: brown;
+    float: left;
+}
+#id2{
+    height: 400px;
+    width: 300px;
+    background-color:darkblue;
+    float: left;
+}
+#id3{
+    height: 400px;
+    width: 300px;
+    background-color: gold;
+    clear: left;
+    
+}

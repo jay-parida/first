@@ -1,0 +1,19 @@
+#para5{
+    background-color: blue;
+}
+.paraclass{
+    color: yellowgreen;
+    background-image: linear-gradient(red,hotpink);
+}
+.paraclass2{
+    color: violet;
+    background-image: linear-gradient(green,pink);
+}
+.paraclass3{
+    color: tomato;
+    background-image: linear-gradient(yellow,black);
+}
+#para6{
+    color: red;
+    background-image: linear-gradient(blue,maroon);
+}

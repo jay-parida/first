@@ -1,0 +1,24 @@
+/*.bg-col{
+    background-color: blue;
+}
+.bg-img{
+    background-image: url(images/doctor2.jpg);
+    height: 400px;
+}*/
+/*.bg-att{
+    height: 400px;
+    width:100%;
+    background-image: url(images/doctor2.jpg);
+    background-attachment:fixed;
+}*/
+
+.bg-pos{
+    height: 500px;
+    width: 900px;
+    box-shadow: 0 0 10px black;
+    background-image: url(images/kgf.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 800px;
+
+}

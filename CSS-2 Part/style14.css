@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.box{
+    width: 50vw ;
+    height: 100vh;
+    background-image: url("images/g.jpg");
+    background-color: red;
+    background-repeat: no-repeat;
+
+
+    background-blend-mode: multiply;
+    
+}

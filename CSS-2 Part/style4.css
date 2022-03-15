@@ -1,0 +1,38 @@
+body{
+    background-image: url("images/doctor2.jpg");
+}
+.div1 {
+    background-color: rgba(200, 100, 255, 0.5); 
+    display: inline-block;
+    margin: 25px;
+    text-align: center;
+    width: 310px;
+    padding-top: 1em;
+    color: cornsilk;
+    height:410px;
+   padding-left: 10px;
+   margin-left: 100px;
+   margin-top: 40px;
+   
+    
+
+}
+.div1 img{
+    border-radius: 50%;
+    width: 100px; 
+  margin-top: -50px;
+  
+}
+.div1 button{
+    width: 120px;
+    border-radius:20px;
+    margin-top: 15px;
+    height: 40px;
+    background-image: linear-gradient(maroon,blue);
+    color: white;
+}
+ .div1 button:hover{
+     background-image: linear-gradient(rgb(0, 255, 128),red);
+     color: whitesmoke;
+ }
+    

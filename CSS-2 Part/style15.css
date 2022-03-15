@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.box{
+    width: 100vw;
+    height: 100vh;
+    background: url("images/5.jpg"),
+               url("images/star2.jfif");
+    
+    background-size: cover;
+    background-blend-mode:darken;

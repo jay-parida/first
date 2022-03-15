@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    text-shadow: 2px 3px 5px red;
+}
+
+.box{
+    height: 300px;
+    width: 400px;
+    background-color:violet;
+   
+    box-shadow: 5px 4px 10px tomato;
+
+}

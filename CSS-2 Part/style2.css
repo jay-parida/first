@@ -1,0 +1,31 @@
+ol{
+    background-image: linear-gradient(yellow,red);
+}
+ol :first-child{
+    background-color:black;
+    color: white;
+}
+ol :nth-child(2){
+    background-color: tomato;
+}
+ol :nth-child(3){
+    background-color: yellowgreen;
+}
+ol :last-child{
+    background-color: hotpink;
+}
+
+ul{
+    background-image: linear-gradient(maroon,blue);
+    color: white;
+}
+ul :nth-child(even)
+{
+    background-color: hotpink;
+    
+}
+
+ul :nth-child(odd){
+    background-color: indigo;
+
+}

@@ -1,0 +1,26 @@
+a{
+    color: yellow;
+}
+
+
+
+/*a:link{
+   color:violet;
+    text-decoration: none;
+}*/
+
+
+/*a:visited{
+    color:darkgray;
+     text-decoration: none;
+ }*/
+
+/* a:hover{
+     color: darkred;
+ }*/
+
+ a:active{
+     color:blueviolet;
+ }
+ 
+ 

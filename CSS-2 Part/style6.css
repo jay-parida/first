@@ -1,0 +1,27 @@
+body{
+    color:white;
+    font-size: 25px;
+}
+#padding-box{
+    border:12px dotted red;
+    padding:25px;
+    background-image: url("images/ismart-shankar.jpg");
+    background-repeat: no-repeat;
+    background-origin: padding-box;
+}
+
+#content-box{
+    border:12px dotted red;
+    padding:25px;
+    background-image: url("images/ismart-shankar.jpg");
+    background-repeat: no-repeat;
+    background-origin: content-box;
+}
+
+#border-box{
+    border:12px dotted red;
+    padding:25px;
+    background-image: url("images/ismart-shankar.jpg");
+    background-repeat: no-repeat;
+    background-origin: border-box;
+}

@@ -1,0 +1,14 @@
+.div1{
+    background-image: linear-gradient(orangered,maroon);
+    height: 300px;
+    width: 300px;
+ 
+ border-bottom:15px solid tomato;
+ border-top: 15px solid saddlebrown;
+ border-right:15px solid yellowgreen;
+ border-left:15px solid aqua;
+}
+.div1 img{
+    width: 300px;
+    height: 300px;
+}

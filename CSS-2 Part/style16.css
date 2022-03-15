@@ -1,0 +1,15 @@
+p{
+    height: 400px;
+    width: 400px;
+    background-image: linear-gradient(orangered,hotpink);
+    display: inline-block;
+    padding: 20px;
+    letter-spacing: 2px;
+    word-spacing: 1px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    outline-width: 10px;
+    outline-style: solid;
+    outline-color: darkblue;
+    outline-offset: 2px;
+
+}

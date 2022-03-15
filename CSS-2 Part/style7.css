@@ -1,0 +1,27 @@
+body{
+    color:rgb(28, 31, 28);
+    font-size: 25px;
+}
+#padding-box{
+    border:12px dotted red;
+    padding:25px;
+    background-color: deepskyblue;
+    background-repeat: no-repeat;  
+    background-clip: padding-box;
+}
+
+#content-box{
+    border:12px dotted red;
+    padding:25px;
+    background-color: deepskyblue;
+    background-repeat: no-repeat;
+    background-clip: content-box;
+}
+
+#border-box{
+    border:12px dotted red;
+    padding:25px;
+    background-color: deepskyblue;
+    background-repeat: no-repeat;
+    background-clip: border-box;
+}
